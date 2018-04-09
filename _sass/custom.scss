@@ -1,15 +1,13 @@
-.header {
-	margin: 0 auto;
-}
-
-.scroller {
-	overflow-x: scroll;
+.home {
+	max-width: none;
 	white-space: nowrap;
+
 	.section {
-		width: $content-width / 3;
+		width: 33%;
 		display: inline-block;
 	}
 }
+
 
 
 
