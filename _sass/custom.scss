@@ -1,0 +1,15 @@
+.header {
+	margin: 0 auto;
+}
+
+.scroller {
+	overflow-x: scroll;
+	white-space: nowrap;
+	.section {
+		width: $content-width / 3;
+		display: inline-block;
+	}
+}
+
+
+
