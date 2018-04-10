@@ -4,11 +4,13 @@ var tabContents = document.getElementsByClassName('tab-content');
 
 var tabLength = tabs.length;
 
-for (let i = 0; i < tabLength; i++) {
-  tabs[i].addEventListener('click', function (e) {
-    selectTab(i);
-    selectTabContent(i);
-  });
+for (var i = 0; i < tabLength; i++) {
+  (function (index) {
+    tabs[index].addEventListener('click', function (e) {
+      selectTab(index);
+      selectTabContent(index);
+    });
+  })(i);
 }
 
 function selectTab(selectedIndex) {
