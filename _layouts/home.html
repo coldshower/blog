@@ -1,48 +1,42 @@
 ---
 layout: default
 ---
-<div class="wrapper home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
+<div class="home">
   {{ content }}
-
   {%- if site.posts.size > 0 -%}
-    <div class="scroller">
-      <div class="section">
-        <h2 class="post-list-heading">On tech</h2>
-        <ul class="post-list">
-          {%- for post in site.posts -%}
-            {%- if post.section == 'tech' -%}
-              {%- include post-list-item.html -%}
-            {%- endif -%}
-          {%- endfor -%}
-        </ul>
-      </div>
-
-      <div class="section">
-        <h2 class="post-list-heading">On life</h2>
-        <ul class="post-list">
-          {%- for post in site.posts -%}
-            {%- if post.section == 'life' -%}
-              {%- include post-list-item.html -%}
-            {%- endif -%}
-          {%- endfor -%}
-        </ul>
-      </div>
-
-      <div class="section">
-        <h2 class="post-list-heading">On writing</h2>
-        <ul class="post-list">
-          {%- for post in site.posts -%}
-            {%- if post.section == 'writing' -%}
-              {%- include post-list-item.html -%}
-            {%- endif -%}
-          {%- endfor -%}
-        </ul>
-      </div>
+    <div class="tab-header">
+      <ul>
+        <li class="selected-tab">tech</li>
+        <li>life</li>
+        <li>writing</li>
+      </ul>
+    </div>
+    <div class="tab-content selected-tab-content">
+      <ul class="post-list">
+        {%- for post in site.posts -%}
+          {%- if post.section == 'tech' -%}
+            {%- include post-list-item.html -%}
+          {%- endif -%}
+        {%- endfor -%}
+      </ul>
+    </div>
+    <div class="tab-content">
+      <ul class="post-list">
+        {%- for post in site.posts -%}
+          {%- if post.section == 'life' -%}
+            {%- include post-list-item.html -%}
+          {%- endif -%}
+        {%- endfor -%}
+      </ul>
+    </div>
+    <div class="tab-content">
+      <ul class="post-list">
+        {%- for post in site.posts -%}
+          {%- if post.section == 'writing' -%}
+            {%- include post-list-item.html -%}
+          {%- endif -%}
+        {%- endfor -%}
+      </ul>
     </div>
   {%- endif -%}
-
 </div>

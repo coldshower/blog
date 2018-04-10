@@ -2,12 +2,7 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
-  min-height: $header-height;
-  position: fixed;
-  width: 100%;
-  top: 0;
+  height: $header-height;
 }
 
 .site-title {
@@ -176,7 +171,6 @@
  * Page content
  */
 .page-content {
-  margin: $header-height 0;
   padding: $spacing-unit 0;
 }
 
