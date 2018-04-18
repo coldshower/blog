@@ -6,12 +6,9 @@ permalink: /book-list/
 
 To prevent myself from going illiterate, I'll ocassionally read a book.
 
-### Currently Reading
-------
-Death's End *Cixin Liu*
+I am currently reading *Death's End* by Cixin Liu.
 
 ### Book Queue
-------
 
 Book | Author |
 --- | --- | ---
@@ -19,7 +16,6 @@ Socialism Seriously | Danny Katch
 East of Eden | John Steinbeck
 
 ### Finished
-------
 
 Book | Author | Rating | Description
 --- | --- | ---
