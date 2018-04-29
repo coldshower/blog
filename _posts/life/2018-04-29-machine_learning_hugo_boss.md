@@ -73,4 +73,4 @@ Now to this day, I don't know if they really meant that store had been flagged f
 
 But I'm grateful. Looking back, while the windbreaker was definitely nice, I feel it was not worth its price, and since then I've found cheaper ways to improve my style. 
 
-And, I did end up giving that five hundred dollars to charity, which is way more stylish than anything you can wear. (GiveDirectly)[https://www.givedirectly.org/]
+And, I did end up giving that five hundred dollars to charity, which is way more stylish than anything you can wear. [GiveDirectly](https://www.givedirectly.org/)
