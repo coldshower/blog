@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "writing"
+title:  "writing honestly"
 date:   2018-05-03
-section: writing honestly
+section: writing
 ---
 As a kid, my parents had always encouraged me to keep a journal. 
 
