@@ -38,9 +38,10 @@ My creative writing teachers would have us write in journals every day as well, 
 
 One day, I decided to ask my friend who I knew got good journal grades if I could borrow his journal, just for a night, to see what I could do better. 
 
-I read his journal cover to cover. 
+Every word he wrote was heartfelt and inviting. All of his vulnerabilities and emotions were clearly laid out, as if he had nothing to hide. It was like the opposite of Hemingway, and I couldn't turn my eyes away. That night, I read his journal cover to cover.
 
-His writing was just so honest. Every word he wrote was heartfelt and inviting. I couldn't and didn't want to look away. All of his vulnerabilities and emotions were clearly laid out, as if he had nothing to hide. At that point, I didn't even care about whether the writing was technically sound. It was engrossing to read. 
+And from that day, I emulated his style in my own journal entries. I started getting A after A.
+
 
 
 
