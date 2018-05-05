@@ -2,7 +2,7 @@
 layout: post
 title:  "writing"
 date:   2018-05-03
-section: writing
+section: writing honestly
 ---
 As a kid, my parents had always encouraged me to keep a journal. 
 
@@ -41,6 +41,7 @@ One day, I decided to ask my friend who I knew got good journal grades if I coul
 I read his journal cover to cover. 
 
 His writing was just so honest. Every word he wrote was heartfelt and inviting. I couldn't and didn't want to look away. All of his vulnerabilities and emotions were clearly laid out, as if he had nothing to hide. At that point, I didn't even care about whether the writing was technically sound. It was engrossing to read. 
+
 
 
 
