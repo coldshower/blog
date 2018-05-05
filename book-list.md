@@ -17,9 +17,9 @@ East of Eden | John Steinbeck
 
 ### Finished
 
-Book | Author | Rating | Description
+Book | Author
 --- | --- | ---
-The Dark Forest | Cixin Liu | 3 | desc
-The Three-Body Problem | Cixin Liu | 3 | desc
-A Stitch of Time | Lauren Marks | 1 | desc
+The Dark Forest | Cixin Liu 
+The Three-Body Problem | Cixin Liu
+A Stitch of Time | Lauren Marks
 
