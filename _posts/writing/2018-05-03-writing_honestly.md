@@ -24,7 +24,7 @@ The end.
 
 To be honest, that is probably better than the originals since I would always try to add "plot twists" to spice things up, but that was basically it. If I can find my old journals, I'll upload an actual entry from them.
 
-Still, every additional word required tremendous effort and concentration. If I had known what writer's block was at the time, I would have said I had writer's constipation.
+Still, those entries were deceptively simple, as every additional word took tremendous effort and concentration. If I had known what writer's block was at the time, I would have said I had writer's constipation.
 
 I just didn't think my days made for very interesting journal entries, or so I thought at the time.
 
