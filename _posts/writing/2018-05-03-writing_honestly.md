@@ -50,4 +50,4 @@ I think the same mundane details that others experience become interesting to yo
 
 A person can see a sunset everyday, but still be moved by another person's description of a sunset.
 
-Of course, take this advice with a single grain of salt. This applies much more to free writing than a business email. But I think if applied in the right context, you will impress yourself with just how much more immersive your writing becomes.
+Take this advice with a single grain of salt. This applies much more to free writing than a business email. But I think if you applied it in the right context, you will impress yourself with just how much more immersive your writing becomes.
