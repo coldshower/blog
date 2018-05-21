@@ -23,7 +23,7 @@ My friend picks out a dark blue windbreaker for me. "Try this."
 
 As if on cue, someone who worked there briskly walked over and motioned for me to remove my jacket while taking the hangar from my friend. 
 
-I put on the windbreaker, and it seems to fit great. It looks sharp. I'm impressed, and a smile escapes my lips.
+I put on the windbreaker, and it fits like it was only made for me. It looks sharp. I'm impressed, and a smile escapes my lips.
 
 My friend, who has taken a seat on a bench beside me, gives a knowing smile and nod. "It looks good on you."
 
