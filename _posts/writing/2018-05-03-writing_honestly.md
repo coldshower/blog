@@ -38,7 +38,7 @@ My creative writing teachers would have us write in journals every day as well, 
 
 One day, I decided to ask my friend who I knew got good journal grades if I could borrow his journal, just for a night, to see what I could do better. 
 
-Every word he wrote was heartfelt and inviting. All of his vulnerabilities and emotions were clearly laid out, as if he had nothing to hide. It was like the opposite of Hemingway, and I couldn't turn my eyes away. That night, I read his journal cover to cover.
+Every word he wrote was heartfelt and inviting. All of his vulnerabilities and emotions were clearly laid out, as if he had nothing to hide. No detail was spared, and I couldn't turn my eyes away. That night, I read his journal cover to cover.
 
 And from that day, I emulated his style in my own journal entries. I started getting A after A.
 
@@ -46,8 +46,8 @@ As a middle schooler, I lacked the ability to express exactly what I learned.
 
 But now I finally can.
 
-I think the same mundane details that others experience become interesting to you because they are opportunities for a connection. To find that someone else views life in a similar way as you do is an unparalleled feeling. 
+I think the mundane experiences of your own are fascinating to others because they are opportunities for a connection. To find that someone else views life in a similar way as you do is an unparalleled feeling.
 
 A person can see a sunset everyday, but still be moved by another person's description of a sunset.
 
-Take this advice with a single grain of salt. This applies much more to free writing than a business email. But I think if you applied it in the right context, you will impress yourself with just how much more immersive your writing becomes.
+The next time you write, try not sparing any details. Don't self-censor. Just let the pen connect your mind to the paper and release your thoughts. Of course, take this advice with a single grain of salt. This applies much more to free writing than a business email. But I think if applied in the right context, you will impress yourself with just how much more immersive your writing becomes.
