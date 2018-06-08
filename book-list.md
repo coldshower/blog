@@ -13,6 +13,7 @@ I am currently reading *Socialism Seriously* by Danny Katch.
 Book | Author |
 --- | --- | ---
 East of Eden | John Steinbeck
+Americanah | Chimamanda Ngozi Adichie
 
 ### Finished
 
