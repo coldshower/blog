@@ -6,3 +6,5 @@ section: archived
 ---
 
 metrics
+coverage thresholds
+strict PR reviews
