@@ -23,7 +23,7 @@ My friend picks out a dark blue windbreaker for me. "Try this."
 
 As if on cue, someone who worked there briskly walked over and motioned for me to remove my jacket while taking the hanger from my friend. 
 
-I put on the windbreaker, and it seems to fit great. It looks sharp. I'm impressed, and a smile escapes my lips.
+I put on the windbreaker, and it fits like it was made just for me. It looks sharp. I'm impressed, and a smile escapes my lips.
 
 My friend, who has taken a seat on a bench beside me, gives a knowing smile and nod. "It looks good on you."
 
@@ -43,7 +43,7 @@ My mind is made. I replace the windbreaker on the hanger, and make strides towar
 
 Totally unfazed, he says, "Yeah, that sounds about right."
 
-I had been so sure that I was going to buy this windbreaker, but the price tag was giving me serious doubts now. I could definitely afford it, but the choice was whether I *wanted* to afford it or not. I could donate that money to charity! At the same time, I had never really been a big spender, and it would be nice to reward myself for a change. It also looked super good.
+I had been so sure that I was going to buy this windbreaker, but now the price tag was giving me serious doubts. I could definitely afford it, but the choice was whether I *wanted* to afford it. I could donate that money to charity! At the same time, I had never really been a big spender, and it would be nice to reward myself for a change. It also looked really good.
 
 "Okay, I'm going to buy it." I walk back to the counter where the cashier is patiently waiting. "I'm going to buy it." I hand over my credit card.
 
@@ -53,7 +53,7 @@ I had been so sure that I was going to buy this windbreaker, but the price tag w
 
 "Sir, your card has been declined."
 
-Was this a dream? I was confident I had enough money in my account, and nothing sketchy had happened recently. It was the only card I had at that moment too, so I had to decide what to do.
+Was this a dream? I was confident I had enough money in my account, and nothing sketchy had happened recently. It was the only card I had at that moment too, so my mind started racing to figure out what to do.
 
 "Hmmm... I don't know why this would happen. Sorry about that. I might come back later for it then."
 
@@ -69,7 +69,7 @@ I can't help but laugh.
 
 "I see, thanks."
 
-Now to this day, I don't know if they really meant that store had been flagged for fraud, or my purchase had been flagged because the transaction was so unlike me, because the latter could definitely apply. I had never spent close to that much money on clothing, and it could have been flagged as abnormal behavior by Chase's machine learning.
+To this day, I don't know if they were telling the truth that the store had been flagged for fraud, or if they wanted to say that my purchase had been flagged because the transaction was so unlike me. I had never spent close to that much money on clothing, and it could have been flagged as abnormal behavior by Chase's machine learning.
 
 But I'm grateful. Looking back, while the windbreaker was definitely nice, I feel it was not worth its price, and since then I've found cheaper ways to improve my style. 
 

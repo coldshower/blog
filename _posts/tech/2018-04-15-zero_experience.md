@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Get a Job with Zero Experience"
 date:   2018-04-15
-section: tech
+section: archived
 ---
 
 One of the most common complaints I see from people fresh on the job market is that they keep getting rejected because the company ended up wanting someone with more experience. 
