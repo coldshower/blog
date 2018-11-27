@@ -50,4 +50,4 @@ I think the mundane experiences of your own are fascinating to others because th
 
 A person can see a sunset everyday, but still be moved by another person's description of a sunset.
 
-The next time you write, try not sparing any details. Don't self-censor. Just let the pen connect your mind to the paper and release your thoughts. Of course, take this advice with a single grain of salt. This applies much more to free writing than a business email. But I think if applied in the right context, you will impress yourself with just how much more immersive your writing becomes.
+The next time you write, try not sparing any details. Don't self-censor. Just let the pen connect your mind to the paper and release your thoughts. Of course, this applies much more to free writing than a business email, but I think if applied in the right context, you will impress yourself with just how much more immersive your writing becomes.
