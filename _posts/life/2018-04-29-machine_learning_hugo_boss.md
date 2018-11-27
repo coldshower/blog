@@ -13,7 +13,7 @@ Now, I had just spent a few months singularly focused on improving as a develope
 
 Being a good friend, he would sometimes encourage me to try to up my style, to which I would just dismiss with a "not really something I care a lot about."
 
-Rationally speaking, there is no reason not to, but if you've been in a similar position, maybe you can understand. Change is uncomfortable, and I felt that if I were to dress very differently, my identity as a whole would be changed, which I was not so sure I wanted.
+Rationally speaking, there is no reason not to, but if you've been in a similar position, maybe you can understand. Change is not always comfortable, and I felt that if I were to dress very differently, my identity as a whole would be changed, which I was not so sure I wanted.
 
 However, that day, as we were passing by a Hugo Boss, the topic comes up again, and he says, "You know what, let's try this one." Slight hesitation, but to be honest, I was intrigued. I had never been inside a Hugo Boss before, and really what was the worst that could happen.
 
