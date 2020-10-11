@@ -19,7 +19,7 @@ Power of Myth | Joseph Campbell
 
 Book | Author
 --- | --- | ---
-The Name of the Window | Patrick Rothfuss
+The Name of the Wind | Patrick Rothfuss
 Socialism Seriously | Danny Katch
 Death's End | Cixin Liu
 The Dark Forest | Cixin Liu 
