@@ -13,11 +13,13 @@ I am currently reading *East of Eden* by John Steinbeck.
 Book | Author |
 --- | --- | ---
 Americanah | Chimamanda Ngozi Adichie
+Power of Myth | Joseph Campbell
 
 ### Finished
 
 Book | Author
 --- | --- | ---
+The Name of the Window | Patrick Rothfuss
 Socialism Seriously | Danny Katch
 Death's End | Cixin Liu
 The Dark Forest | Cixin Liu 
