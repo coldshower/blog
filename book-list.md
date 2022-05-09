@@ -17,12 +17,13 @@ I am currently reading _East of Eden_ by John Steinbeck.
 
 ### Finished
 
-| Book                                  | Author           |
-| ------------------------------------- | ---------------- |
-| How to Get Filthy Rich in Rising Asia | Mohsin Hamid     |
-| The Name of the Wind                  | Patrick Rothfuss |
-| Socialism Seriously                   | Danny Katch      |
-| Death's End                           | Cixin Liu        |
-| The Dark Forest                       | Cixin Liu        |
-| The Three-Body Problem                | Cixin Liu        |
-| A Stitch of Time                      | Lauren Marks     |
+| Book                                  | Author               |
+| ------------------------------------- | -------------------- |
+| Counting by 7s                        | Holly Goldberg Sloan |
+| How to Get Filthy Rich in Rising Asia | Mohsin Hamid         |
+| The Name of the Wind                  | Patrick Rothfuss     |
+| Socialism Seriously                   | Danny Katch          |
+| Death's End                           | Cixin Liu            |
+| The Dark Forest                       | Cixin Liu            |
+| The Three-Body Problem                | Cixin Liu            |
+| A Stitch of Time                      | Lauren Marks         |
