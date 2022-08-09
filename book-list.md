@@ -6,7 +6,7 @@ permalink: /book-list/
 
 To prevent myself from going illiterate, I'll ocassionally read a book.
 
-I am currently reading _East of Eden_ by John Steinbeck.
+I am currently reading _Kite Runner_ by Khaled Hosseini.
 
 ### Book Queue
 
@@ -19,6 +19,7 @@ I am currently reading _East of Eden_ by John Steinbeck.
 
 | Book                                  | Author               |
 | ------------------------------------- | -------------------- |
+| East of Eden                          | John Steinbeck       |
 | Counting by 7s                        | Holly Goldberg Sloan |
 | How to Get Filthy Rich in Rising Asia | Mohsin Hamid         |
 | The Name of the Wind                  | Patrick Rothfuss     |
