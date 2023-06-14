@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "writing honestly"
-date:   2018-05-03
+title: 'writing honestly'
+date: 2018-05-03
 section: writing
 ---
-As a kid, my parents had always encouraged me to keep a journal. 
 
-Why. 
+As a kid, my parents had always encouraged me to keep a journal.
+
+Why.
 
 Use it to write about your day.
 
