@@ -40,6 +40,14 @@
   }
 }
 
+.tutoring-page {
+  text-align: center;
+}
+
+.intro-wrapper {
+  text-align: left;
+}
+
 #testimonialto-carousel-all-johnofchen-tag-all-light {
   position: absolute;
   left: 5%;
@@ -51,4 +59,9 @@
   left: 10%;
   width: 80%;
   padding-bottom: 60px;
+}
+
+.intro-wrapper {
+  display: flex;
+  gap: $spacing-unit;
 }
