@@ -60,9 +60,8 @@ permalink: /tutoring/
   }
 
   .active:after {
-    content: "\2796"; /* Unicode character for "minus" sign (-) */
+    content: '\2796'; /* Unicode character for "minus" sign (-) */
   }
-
 </style>
 
 <div class="tutoring-page">
@@ -84,71 +83,91 @@ permalink: /tutoring/
 
   <h2>What do you need help with?</h2>
 
-  <div role="button" class="accordion">You're learning computer science and it started off great, but now the material is going too fast and you don't get
-    what's going on anymore.</div>
+  <div role="button" class="accordion">
+    You're learning computer science and it started off great, but now the material is going too fast and you don't get
+    what's going on anymore.
+  </div>
   <div class="panel">
-    <p><strong>How I can help:</strong> Computer science requires a strong foundation, but once you have that foundation,
+    <p>
+      <strong>How I can help:</strong> Computer science requires a strong foundation, but once you have that foundation,
       you can learn almost any of it by yourself. I'll help you by identifying what you are getting confused by, and
-      coming up with exercises and examples for you to learn by doing.</p>
+      coming up with exercises and examples for you to learn by doing.
+    </p>
   </div>
 
-  <hr/>
-  
-  <div role="button" class="accordion">You're a college or bootcamp graduate who is struggling with getting your foot in the door. You send out 100s of
-    applications but hear nothing back, or you're doing interviews and aren't getting any offers.</div>
-  <div class="panel">
-    <p><strong>How I can help:</strong> I've been in this position myself, and I've coached several other bootcamp
-      graduates who now all are employed. We can take a look at your profile together, and I can share some advice on
-      how to stand out and be an exceptional candidate, even without prior industry experience.</p>
+  <hr />
+
+  <div role="button" class="accordion">
+    You're a college or bootcamp graduate who is struggling with getting your foot in the door. You send out 100s of
+    applications but hear nothing back, or you're doing interviews and aren't getting any offers.
   </div>
-  <hr/>
-  <div role="button" class="accordion">You're a solid engineer, but you still haven't been promoted to senior, and you want some real actionable advice on how to do it.</div>
   <div class="panel">
-    <p><strong>How I can help:</strong> As someone who has been promoted to senior engineer before, I know firsthand how
+    <p>
+      <strong>How I can help:</strong> I've been in this position myself, and I've coached several other bootcamp
+      graduates who now all are employed. We can take a look at your profile together, and I can share some advice on
+      how to stand out and be an exceptional candidate, even without prior industry experience.
+    </p>
+  </div>
+  <hr />
+  <div role="button" class="accordion">
+    You're a solid engineer, but you still haven't been promoted to senior, and you want some real actionable advice on
+    how to do it.
+  </div>
+  <div class="panel">
+    <p>
+      <strong>How I can help:</strong> As someone who has been promoted to senior engineer before, I know firsthand how
       confusing the criteria for senior engineer can be. Usually technical chops are not what's lacking. Instead, it's
       more about behaviors and habits. We'll review your work routine and I can provide some advice on where you can
-      make adjustments.</p>
+      make adjustments.
+    </p>
   </div>
-<hr/>
+  <hr />
 
   <script>
-    var acc = document.getElementsByClassName("accordion");
+    var acc = document.getElementsByClassName('accordion');
     var i;
-    
+
     for (i = 0; i < acc.length; i++) {
-      acc[i].addEventListener("click", function() {
-        this.classList.toggle("active");
+      acc[i].addEventListener('click', function () {
+        this.classList.toggle('active');
         var panel = this.nextElementSibling;
         if (panel.style.maxHeight) {
           panel.style.maxHeight = null;
         } else {
-          panel.style.maxHeight = panel.scrollHeight + "px";
+          panel.style.maxHeight = panel.scrollHeight + 'px';
         }
       });
     }
-    </script>
+  </script>
 
   <h2>About me</h2>
 
+  <p>Knowing how to code has transformed my life.</p>
   <p>
-    Knowing how to code has transformed my life.
+    It's provided me abundant career opportunities. It's allowed me to meet some of my best friends.
+    <strong>And it may be the most powerful tool for creation we have today.</strong>
   </p>
   <p>
-    It's provided me abundant career opportunities. It's allowed me to meet
-    some of my best friends. <strong>And it may be the most powerful tool for creation we have today.</strong>
-  </p> 
-  <p>
-    All the instructors and resources I've ever learned from gave me one of the biggest gifts I could have ever received, and I want to be able to give that gift to the future generation of engineers too.
+    All the instructors and resources I've ever learned from gave me one of the biggest gifts I could have ever
+    received, and I want to be able to give that gift to the future generation of engineers too.
   </p>
 
   <p>Here's why I think I would be a good tutor or mentor for you.</p>
 
   <ul>
     <li>
-      I've been a software engineer for 6+ years at large companies like Meta, American Express, and small venture funded startups like Skiplagged and Kustomer.
+      I've been a software engineer for 6+ years at large companies like Meta, American Express, and small venture
+      funded startups like Skiplagged and Kustomer.
     </li>
     <li>
-      I've <strong>built <a href="https://medium.com/kustomerengineering/lessons-from-a-rewrite-gone-right-26790e715441" target="_blank">applications</a> used by hundreds of millions of people</strong>. 
+      I've
+      <strong
+        >built
+        <a href="https://medium.com/kustomerengineering/lessons-from-a-rewrite-gone-right-26790e715441" target="_blank"
+          >applications</a
+        >
+        used by hundreds of millions of people</strong
+      >.
     </li>
 
     <figure>
@@ -168,8 +187,8 @@ permalink: /tutoring/
           how to code after school over 9 months. By the end, they were able to create their own interactive websites
           with HTML, CSS, and JavaScript.
         </li>
+        <li>For 2 years, I taught SAT test prep at a private cram school.</li>
       </ul>
-      <li>For 2 years, I taught SAT test prep at a private cram school.</li>
     </li>
   </ul>
 
