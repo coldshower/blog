@@ -39,24 +39,17 @@ permalink: /tutoring/
   }
 
   .accordion {
-  background-color: #eee;
-  color: #444;
   cursor: pointer;
   padding: 18px;
   width: 100%;
   text-align: left;
   border: none;
   outline: none;
-  transition: 0.4s;
-}
-
-.active, .accordion:hover {
-  background-color: #ccc;
+  transition: 0.3s;
 }
 
 .panel {
   padding: 0 18px;
-  background-color: white;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
@@ -95,23 +88,23 @@ permalink: /tutoring/
 
   <h2>What do you need help with?</h2>
 
-  <button class="accordion">You're learning computer science and it started off great, but now the material is going too fast and you don't get
-    what's going on anymore.</button>
+  <div role="button" class="accordion">You're learning computer science and it started off great, but now the material is going too fast and you don't get
+    what's going on anymore.</div>
   <div class="panel">
     <p>Computer science requires a strong foundation, but once you have that foundation,
       you can learn almost any of it by yourself. I'll help you by identifying what you are getting confused by, and
       coming up with exercises and examples for you to learn by doing.</p>
   </div>
   
-  <button class="accordion">You're a college or bootcamp graduate who is struggling with getting your foot in the door. You send out 100s of
-    applications but hear nothing back, or you're doing interviews and aren't getting any offers.</button>
+  <div role="button" class="accordion">You're a college or bootcamp graduate who is struggling with getting your foot in the door. You send out 100s of
+    applications but hear nothing back, or you're doing interviews and aren't getting any offers.</div>
   <div class="panel">
     <p>I've been in this position myself, and I've coached several other bootcamp
       graduates who now all are employed. We can take a look at your profile together, and I can share some advice on
       how to stand out and be an exceptional candidate, even without prior industry experience.</p>
   </div>
   
-  <button class="accordion">Section 3</button>
+  <div role="button" class="accordion">Section 3</div>
   <div class="panel">
     <p>Lorem ipsum...</p>
   </div>
@@ -210,10 +203,6 @@ permalink: /tutoring/
         </li>
       </ul>
       <li>For 2 years, I taught SAT test prep at a private cram school.</li>
-      <figure>
-        <img src="/assets/images/codenation.jpg" alt="codenation" />
-        <figcaption>My last day of Code Nation</figcaption>
-      </figure>
     </li>
   </ul>
 
