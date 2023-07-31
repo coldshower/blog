@@ -15,7 +15,7 @@ To prevent myself from going illiterate, I'll ocassionally read a book.
 ## Finished
 
 - **I'm Glad My Mom Died** Jennette McCurdy
-  - emotional rollercoaster and page turner. As someone who tries their best to see both sides, I was shocked wheb I too, was glad McCurdy's mom died. Highly recommend.
+  - emotional rollercoaster and page turner. As someone who tries their best to see both sides, I was shocked when I too, was glad McCurdy's mom died. Highly recommend.
 - **Build** Tony Fadell
   - pretty good. my 3 takeaways:
     - Tony Fadell also deserves a lot of credit for helping to bring about the iPod
@@ -36,6 +36,6 @@ To prevent myself from going illiterate, I'll ocassionally read a book.
 - **Death's End** Cixin Liu
 - **The Dark Forest** Cixin Liu
 - **The Three-Body Problem** Cixin Liu
-  - the entire series is very good. highly recommend. The writing and translation is super masterful so the descriptions are crazy vivid. There are many points in the story where you cannot stop reading because you are wondering how the heck are the good guys going to pull themselves out of this mess, and you literally cannot think of anything, but then the protagonist figures it out and the author reveals it and you go WOW. Also, Obama (yes that Obama) read it and liked it.
+  - the entire series is very good. highly recommend. The writing and translation is masterful so the descriptions are crazy vivid. There are many points in the story where you cannot stop reading because you are wondering how the heck are the good guys going to pull themselves out of this mess, and you literally cannot think of anything, but then the protagonist figures it out and the author reveals it and you go WOW. Also, Obama (yes that Obama) read it and liked it.
 - **A Stitch of Time** Lauren Marks
   - very good. The author opens a window into how she was able to recover from an aneurysm that took away her ability to remember how to use language. How are you not intrigued?
