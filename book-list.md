@@ -14,6 +14,8 @@ To prevent myself from going illiterate, I'll ocassionally read a book.
 
 ## Finished
 
+- **I Who Have Never Known Men** Jacqueline Harpman
+  - A demonstration of what happens when someone has mastered writing. One of the strongest openings to a novel I've ever read. I can't get over how much is able to be said in a book so short and simple (~170 pages).
 - **I'm Glad My Mom Died** Jennette McCurdy
   - emotional rollercoaster and page turner. As someone who tries their best to see both sides, I was shocked when I too, was glad McCurdy's mom died. Highly recommend.
 - **Build** Tony Fadell
